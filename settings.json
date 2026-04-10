@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "ligilemari.aternos.me:52943",
-    "port" 52943: ,
+    "port": 52943 ,
     "version": "1.21.8",
     "try-creative": false
   },
