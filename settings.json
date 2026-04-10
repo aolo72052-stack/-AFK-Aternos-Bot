@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " ligilemari.aternos.me",
+    "ip": "ligilemari.aternos.me:52943",
     "port": 52943,
     "version": "",
     "try-creative": false
